@@ -5,3 +5,4 @@ Console.WriteLine("pullrequest");
 Console.WriteLine("マージせずに作業");
 Console.WriteLine("マージせずに作業");
 Console.WriteLine("マージせずに作業");
+Console.WriteLine("マージせずに作業");
